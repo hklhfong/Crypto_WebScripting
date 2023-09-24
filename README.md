@@ -1,2 +1,3 @@
 # Crypto_WebScripting
- A WebScripting project that reveal the market trend of crypto market
+
+Crypto_WebScripting is an innovative project designed to unveil the dynamic trends within the ever-evolving cryptocurrency market. With the power of scripting and web technology, this project aims to provide invaluable insights into the crypto market's behavior, offering users a real-time window into the world of digital assets. Through meticulous data analysis and cutting-edge web scripting techniques, we strive to empower crypto enthusiasts and investors alike with the knowledge they need to make informed decisions in this rapidly changing landscape. Join us on this exciting journey as we decode the complexities of the crypto market, one script at a time.
